@@ -40,17 +40,3 @@ Design of an Online Grocery shopping App UI that enhances the shopping experienc
 ![𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬 𝐏𝐚𝐠𝐞](https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Fruits%20and%20Vegetables.png)
 
 
----
-
-> * All Pages can be seen here: [All](https://github.com/shreyaschavhan/UI-UX-online-grocery-store/tree/main/PNG)
->   * About Us: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/About%20Us.png
->   * All Categories: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/All%20Catergories.png
->   * Baby Products: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Baby%20Products.png
->   * Beverages and Drinks: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Beverages%20and%20drinks.png
->   * Contact Us: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Contact%20US.png
->   * Fruits and Vegetables: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Fruits%20and%20Vegetables.png
->   * Register - Customer: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Register%20-%20Customer.png
->   * Register - Store: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Register%20-%20Store.png
->   * Terms and Conditions: https://github.com/shreyaschavhan/UI-UX-online-grocery-store/blob/main/PNG/Terms.png
->   * etc.
-
